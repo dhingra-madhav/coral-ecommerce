@@ -1,0 +1,78 @@
+[
+    {
+      "id": 9,
+      "title": "Leather Crossbody Bag",
+      "category": "Accessories",
+      "price": 75.00,
+      "image": "/images/access-prod-img/bag.jpg",
+      "status": "Best Sellers",
+      "description": "Upgrade your accessory game with the Leather Crossbody Bag. A versatile and stylish choice for any occasion.",
+      "details": "Made from genuine leather, this crossbody bag offers ample storage space and a timeless design. The adjustable strap allows for a customized fit, making it a must-have accessory.",
+      "highlights": [
+        "Genuine leather construction",
+        "Ample storage space",
+        "Timeless and versatile design"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Classic Aviator Sunglasses",
+      "category": "Accessories",
+      "price": 45.00,
+      "image": "/images/access-prod-img/glass.jpg",
+      "status": "Best Sellers",
+      "description": "Shield your eyes in style with the Classic Aviator Sunglasses. A timeless accessory that adds a cool factor to your look.",
+      "details": "Designed with UV protection, these aviator sunglasses offer both style and functionality. The metal frame and gradient lenses make them a classic choice for sunny days.",
+      "highlights": [
+        "UV protection",
+        "Metal frame with gradient lenses",
+        "Timeless aviator style"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Knit Beanie Hat",
+      "category": "Accessories",
+      "price": 25.00,
+      "image": "/images/access-prod-img/hat.jpg",
+      "status": "Best Sellers",
+      "description": "Stay warm and stylish with the Knit Beanie Hat. A cozy accessory that adds a pop of color to your winter wardrobe.",
+      "details": "Crafted from soft and stretchy knit fabric, this beanie provides warmth without sacrificing style. The cuffed design ensures a snug fit, making it a winter essential.",
+      "highlights": [
+        "Soft and stretchy knit fabric",
+        "Cuffed design for a snug fit",
+        "Adds a pop of color to your outfit"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Leather Wallet with RFID Blocking",
+      "category": "Accessories",
+      "price": 50.00,
+      "image": "/images/access-prod-img/wlt.jpg",
+      "status": "New Arrival",
+      "description": "Protect your essentials with the Leather Wallet featuring RFID blocking technology. A sleek and secure accessory for everyday use.",
+      "details": "Made from genuine leather, this wallet not only looks stylish but also safeguards your cards from electronic theft. With multiple card slots and a bill compartment, it's the perfect blend of fashion and function.",
+      "highlights": [
+        "Genuine leather with RFID blocking",
+        "Multiple card slots and bill compartment",
+        "Sleek and secure design"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Patterned Silk Scarf",
+      "category": "Accessories",
+      "price": 35.00,
+      "image": "/images/access-prod-img/scarfs.jpg",
+      "status": "New Arrival",
+      "description": "Elevate your style with the Patterned Silk Scarf. A luxurious accessory that adds a touch of sophistication to any outfit.",
+      "details": "Crafted from high-quality silk, this scarf features an intricate pattern that enhances its elegance. Wear it as a statement piece or a delicate neck accessory - the choice is yours.",
+      "highlights": [
+        "High-quality silk construction",
+        "Intricate pattern for added elegance",
+        "Versatile styling options"
+      ]
+    }
+  ]
+  
