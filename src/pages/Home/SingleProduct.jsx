@@ -41,7 +41,7 @@ const SingleProduct = () => {
 
   const handleQuantityChange = (event) => {
     const newQuantity = parseInt(event.target.value, 10);
-    setQuantity(newQuantity);.git
+    setQuantity(newQuantity);
   };
 
   const updatedPrice = price * quantity;
