@@ -18,9 +18,9 @@ const Navbar = () => {
 
   const navItems = [
     { title: "Accessories", path: "/accessories" },
-    { title: "Clothing", path: "/" },
-    { title: "Toys & Entertainment", path: "/" },
-    { title: "Beauty", path: "/" },
+    { title: "Books & Magazines", path: "/books" },
+    { title: "Toys & Entertainment", path: "/toys" },
+    { title: "Beauty & Personal Care", path: "/beauty" },
   ];
   return (
     <header className="max-w-screen-2xl xl:px-28 px-4 absolute top-0 left-0 right-0">

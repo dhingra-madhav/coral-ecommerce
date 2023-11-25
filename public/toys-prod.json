@@ -1,0 +1,92 @@
+[
+  {
+    "id": 14,
+    "title": "Interactive Robot Toy",
+    "category": "Toys & Entertainment",
+    "price": 55.0,
+    "image": "/images/toys-prod-img/rbt.jpg",
+    "status": "Best Sellers",
+    "description": "Bring joy to playtime with the Interactive Robot Toy. A futuristic companion for endless fun and learning.",
+    "details": "Equipped with advanced sensors and interactive features, this robot engages in activities, dances, and even responds to voice commands. It's the perfect playmate for curious minds.",
+    "highlights": [
+      "Advanced sensors for interactive play",
+      "Engages in activities and dances",
+      "Responds to voice commands"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Classic Board Games Set",
+    "category": "Toys & Entertainment",
+    "price": 40.0,
+    "image": "/images/toys-prod-img/board.jpg",
+    "status": "Best Sellers",
+    "description": "Rediscover the joy of game nights with the Classic Board Games Set. Timeless entertainment for family and friends.",
+    "details": "This set includes popular board games like Chess, Monopoly, and Scrabble. Crafted with durable materials, it ensures countless hours of laughter and friendly competition.",
+    "highlights": [
+      "Includes Chess, Monopoly, Scrabble, and more",
+      "Timeless entertainment for all ages",
+      "Durable materials for long-lasting fun"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Digital Drawing Tablet for Kids",
+    "category": "Toys & Entertainment",
+    "price": 65.0,
+    "image": "/images/toys-prod-img/dig.jpg",
+    "status": "Best Sellers",
+    "description": "Inspire creativity with the Digital Drawing Tablet for Kids. A fun and educational tool for budding artists.",
+    "details": "Designed for young artists, this tablet offers a user-friendly interface and a variety of drawing tools. It promotes imagination and artistic expression in a digital format.",
+    "highlights": [
+      "User-friendly interface for kids",
+      "Promotes imagination and artistic expression",
+      "Variety of drawing tools"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Wooden Building Blocks Set",
+    "category": "Toys & Entertainment",
+    "price": 30.0,
+    "image": "/images/toys-prod-img/blocks.jpg",
+    "status": "New Arrival",
+    "description": "Encourage imaginative play with the Wooden Building Blocks Set. A timeless toy for endless building possibilities.",
+    "details": "Crafted from high-quality wood, these building blocks come in various shapes and sizes. They help develop fine motor skills, spatial awareness, and creativity in children.",
+    "highlights": [
+      "High-quality wooden blocks",
+      "Various shapes and sizes",
+      "Develops fine motor skills and creativity"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Remote Control Racing Car",
+    "category": "Toys & Entertainment",
+    "price": 50.0,
+    "image": "/images/toys-prod-img/car.jpg",
+    "status": "New Arrival",
+    "description": "Experience thrilling races with the Remote Control Racing Car. A high-speed adventure for young and old enthusiasts.",
+    "details": "This racing car features responsive controls, durable construction, and high-speed capabilities. It's perfect for indoor and outdoor racing, providing excitement for all ages.",
+    "highlights": [
+      "Responsive controls for precise maneuvers",
+      "Durable construction for long-lasting fun",
+      "High-speed capabilities for thrilling races"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Educational Puzzle Set",
+    "category": "Toys & Entertainment",
+    "price": 25.0,
+    "image": "/images/toys-prod-img/pzl.jpg",
+    "status": "New Arrival",
+    "description": "Make learning fun with the Educational Puzzle Set. Engaging puzzles that promote cognitive development in children.",
+    "details": "This set includes puzzles covering various topics such as animals, numbers, and shapes. It fosters problem-solving skills, memory retention, and critical thinking in a playful way.",
+    "highlights": [
+      "Engaging puzzles for cognitive development",
+      "Covers topics like animals, numbers, and shapes",
+      "Fosters problem-solving and critical thinking"
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": 20,
+    "title": "Rose Infused Facial Mist",
+    "category": "Beauty",
+    "price": 35.0,
+    "image": "/images/beauty-prod-img/mist.jpg",
+    "status": "Best Sellers",
+    "description": "Refresh and hydrate your skin with the Rose Infused Facial Mist. A fragrant mist for a revitalizing skincare experience.",
+    "details": "Formulated with natural rose extracts, this facial mist provides instant hydration and a subtle floral fragrance. It's perfect for a quick pick-me-up throughout the day.",
+    "highlights": [
+      "Formulated with natural rose extracts",
+      "Provides instant hydration",
+      "Subtle floral fragrance"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Luxury Aromatherapy Candle Set",
+    "category": "Beauty",
+    "price": 50.0,
+    "image": "/images/beauty-prod-img/candle.jpg",
+    "status": "Best Sellers",
+    "description": "Create a calming ambiance with the Luxury Aromatherapy Candle Set. Indulge in the soothing scents of nature.",
+    "details": "Each candle in this set features a unique blend of essential oils for relaxation and stress relief. Ignite these candles to transform your space into a haven of tranquility.",
+    "highlights": [
+      "Unique blend of essential oils",
+      "Promotes relaxation and stress relief",
+      "Creates a calming ambiance"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Glow Boosting Vitamin C Serum",
+    "category": "Beauty",
+    "price": 45.0,
+    "image": "/images/beauty-prod-img/glow.jpg",
+    "status": "Best Sellers",
+    "description": "Revitalize your skin with the Glow Boosting Vitamin C Serum. An antioxidant-rich formula for a radiant complexion.",
+    "details": "Enriched with potent vitamin C, this serum brightens and evens skin tone. It also helps combat the effects of environmental stressors, leaving your skin looking youthful and glowing.",
+    "highlights": [
+      "Enriched with potent vitamin C",
+      "Brightens and evens skin tone",
+      "Combat effects of environmental stressors"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Organic Lavender Essential Oil",
+    "category": "Beauty",
+    "price": 20.00,
+    "image": "/images/beauty-prod-img/oil.jpg",
+    "status": "Best Sellers",
+    "description": "Indulge in the calming aroma of Organic Lavender Essential Oil. A versatile beauty elixir for relaxation and skincare rituals.",
+    "details": "Extracted from premium organic lavender, this essential oil is perfect for aromatherapy, massage, and skincare. Experience tranquility and promote a sense of well-being with this pure and natural fragrance.",
+    "highlights": [
+      "Premium organic lavender extraction",
+      "Versatile for aromatherapy and skincare",
+      "Calming aroma for relaxation"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Natural Mineral Sunscreen SPF 50",
+    "category": "Beauty",
+    "price": 30.0,
+    "image": "/images/beauty-prod-img/sun.jpg",
+    "status": "New Arrival",
+    "description": "Protect your skin with the Natural Mineral Sunscreen SPF 50. A non-greasy formula for effective sun protection.",
+    "details": "Formulated with natural minerals, this sunscreen provides broad-spectrum protection without harmful chemicals. It's suitable for all skin types and ideal for daily use.",
+    "highlights": [
+      "Formulated with natural minerals",
+      "Broad-spectrum protection",
+      "Non-greasy formula for daily use"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Vitamin C Brightening Serum",
+    "category": "Beauty",
+    "price": 30.00,
+    "image": "/images/beauty-prod-img/vitc.jpg",
+    "status": "New Arrival",
+    "description": "Illuminate your skin with the Vitamin C Brightening Serum. A rejuvenating formula for a radiant and youthful complexion.",
+    "details": "Infused with potent Vitamin C and antioxidants, this serum helps reduce dark spots and promotes even skin tone. Achieve a natural glow and boost your skin's vitality with this revitalizing beauty essential.",
+    "highlights": [
+      "Potent Vitamin C and antioxidants",
+      "Reduces dark spots and evens skin tone",
+      "Promotes a radiant and youthful complexion"
+    ]
+  }
+  
+]

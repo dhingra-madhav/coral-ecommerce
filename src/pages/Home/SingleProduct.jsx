@@ -14,6 +14,12 @@ const SingleProduct = () => {
     loc = "products";
   } else if (x < 14) {
     loc = "accessories-prod";
+  } else if (x < 20) {
+    loc = "toys-prod";
+  } else if (x < 26) {
+    loc = "beauty-prod";
+  } else if (x < 32) {
+    loc = "books-prod";
   }
 
   useEffect(() => {

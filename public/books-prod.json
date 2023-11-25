@@ -1,0 +1,92 @@
+[
+  {
+    "id": 26,
+    "title": "The Silent Symphony",
+    "category": "Books",
+    "price": 20.0,
+    "image": "/images/books-prod-img/silent.jpg",
+    "status": "Best Sellers",
+    "description": "Immerse yourself in the enchanting tale of 'The Silent Symphony.' A masterpiece that weaves together mystery, romance, and suspense.",
+    "details": "Written by acclaimed author Jane Doe, this novel takes you on a captivating journey through the world of music, love, and secrets. A must-read for every book enthusiast.",
+    "highlights": [
+      "Captivating mystery and romance",
+      "Written by acclaimed author Jane Doe",
+      "A must-read for book enthusiasts"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Beyond the Horizon",
+    "category": "Books",
+    "price": 18.5,
+    "image": "/images/books-prod-img/horizon.jpg",
+    "status": "New Arrival",
+    "description": "Embark on an epic adventure 'Beyond the Horizon.' A fantasy novel that transports readers to a magical realm of dragons, wizards, and destiny.",
+    "details": "Crafted by fantasy novelist John Smith, this book unfolds a gripping narrative filled with mythical creatures and unforeseen challenges. Dive into a world where the extraordinary becomes reality.",
+    "highlights": [
+      "Epic fantasy adventure",
+      "Crafted by fantasy novelist John Smith",
+      "Magical realm of dragons and wizards"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Infinite Wisdom",
+    "category": "Books",
+    "price": 25.0,
+    "image": "/images/books-prod-img/inf.jpg",
+    "status": "Best Sellers",
+    "description": "Discover 'Infinite Wisdom,' a philosophical masterpiece that delves into the profound questions of life, existence, and consciousness.",
+    "details": "Authored by renowned philosopher Alice Johnson, this book explores the depths of human thought and offers insights that challenge and enlighten. A thought-provoking addition to your library.",
+    "highlights": [
+      "Philosophical masterpiece",
+      "Authored by renowned philosopher Alice Johnson",
+      "Thought-provoking exploration of human thought"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Mysteries of the Cosmos",
+    "category": "Books",
+    "price": 22.0,
+    "image": "/images/books-prod-img/cosmosjpg",
+    "status": "New Arrival",
+    "description": "Unravel the 'Mysteries of the Cosmos' in this scientific exploration of the universe's enigmas and celestial wonders.",
+    "details": "Written by astrophysicist David Brown, this book takes readers on a cosmic journey, exploring black holes, galaxies, and the secrets of the universe. An informative and awe-inspiring read.",
+    "highlights": [
+      "Scientific exploration of the cosmos",
+      "Written by astrophysicist David Brown",
+      "Awe-inspiring insights into the universe"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "The Art of Creativity",
+    "category": "Books",
+    "price": 21.5,
+    "image": "/images/books-prod-img/art.jpg",
+    "status": "Best Sellers",
+    "description": "Unlock 'The Art of Creativity' and unleash your imaginative potential with this guide to cultivating creativity in every aspect of life.",
+    "details": "Authored by creativity expert Sarah Taylor, this book provides practical tips, exercises, and inspiring stories to ignite and nurture your creative spark. A must-read for aspiring innovators.",
+    "highlights": [
+      "Guide to cultivating creativity",
+      "Authored by creativity expert Sarah Taylor",
+      "Practical tips and inspiring stories"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "The Art of Time Travel",
+    "category": "Books and Magazines",
+    "price": 22.5,
+    "image": "/images/books-prod-img/time.jpg",
+    "status": "Best Sellers",
+    "description": "Explore the fascinating history of time travel with this captivating book. A must-read for enthusiasts and curious minds alike.",
+    "details": "Written by renowned author David Martin, this book delves into the science, philosophy, and cultural impact of time travel. Engaging narratives and insightful analysis make it an intriguing journey through the ages.",
+    "highlights": [
+      "Author: David Martin",
+      "Explores science, philosophy, and culture of time travel",
+      "Engaging narratives and insightful analysis"
+    ]
+  }
+]
