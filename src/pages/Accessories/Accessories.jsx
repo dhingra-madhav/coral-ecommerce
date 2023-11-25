@@ -72,15 +72,15 @@ const Accessories = () => {
       {/* products card */}
       <div>
         <div className="flex flex-col md:flex-row flex-wrap md:justify-between items-center space-y-3 mb-8">
-          <div className="flex justify-end mb-4 rounded-sm">
-            <div className=" bg-Black  p-2 ">
+        <div className="flex justify-end mb-4">
+            <div className="bg-Black p-2 rounded-l-lg">
               <FaFilter className="text-white h-4 w-4" />
             </div>
             <select
               id="sort"
               onChange={(e) => handleSortChange(e.target.value)}
               value={sortOption}
-              className=" bg-Black text-white px-2 py-1 rounded-sm"
+              className="bg-Black text-white px-2 py-1 rounded-r-lg"
             >
               <option value="default"> Default</option>
               <option value="A-Z">A-Z</option>
