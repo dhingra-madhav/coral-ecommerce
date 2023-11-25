@@ -13,10 +13,9 @@ const Banner = () => {
         <div className="md:w-1/2 w-full">
           <h1 className="text-5xl font-light mb-5">Collections</h1>
           <p className="text-xl mb-7">
-            You can explore ans shop many differnt collection from various
-            barands here.
+          Discover a world of style and shop exclusive collections from top-notch brands. Your fashion journey starts here!
           </p>
-          <button className="bg-Black hover:bg-orange-500 px-6 py-2 text-white font-semibold flex gap-2 items-center rounded-sm">
+          <button className="bg-Black hover:bg-orange-500 px-6 py-2 text-white font-semibold flex gap-2 items-center rounded-lg">
             <FaShoppingBag className="inline-flex" /> Shop Now
           </button>
         </div>

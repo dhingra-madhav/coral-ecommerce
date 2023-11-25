@@ -69,8 +69,8 @@ const Products = () => {
 
   return (
     <div className="max-w-screen-2xl container mx-auto xl:px-28 px-4 mb-12">
-      <h2 className="text-3xl font-semibold capitalize text-center my-8">
-        Trending Products
+      <h2 className="text-4xl font-extrabold text-center mt-8 mb-12 text-orange-400">
+        Explore the Latest Trends
       </h2>
 
       {/* products card */}

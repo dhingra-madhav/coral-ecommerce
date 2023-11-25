@@ -28,7 +28,7 @@ const BestSellers = () => {
   return (
     <div className="max-w-screen-2xl container mx-auto xl:px-28 px-4">
       <div className="text-center">
-        <h2 className="text-3xl font-semibold capitalize mb-5">Best Sellers</h2>
+        <h2 className="text-4xl font-bold tracking-wide capitalize mb-5 text-teal-600">Best Sellers</h2>
         <p className="text-black/75 capitalize md:w-2/3 mx-auto mb-8">
           Elevate your style with our top-rated, trendsetting best sellers !!
         </p>
