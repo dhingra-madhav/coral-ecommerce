@@ -99,7 +99,8 @@ const Footer = () => {
       {/* footer bottom */}
       <div className="bg-Black">
         <p className="text-white text-center items-center py-3">
-          © {currentYear} Coral, Inc.
+          Built by{" "}
+          <a href="https://github.com/dhingra-madhav">Madhav Dhingra</a>
         </p>
       </div>
     </footer>
