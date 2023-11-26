@@ -1,4 +1,3 @@
-import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { FaFilter } from "react-icons/fa";
 import Card from "../../components/Card";
@@ -6,7 +5,6 @@ import Card from "../../components/Card";
 const Toys = () => {
   const [jsonData, setJsonData] = useState([]);
   const [filteredItems, setFilteredItems] = useState([]);
-  const [selectedCategory, setSelectedCategory] = useState("all"); // Default: All
   const [sortOption, setSortOption] = useState("default"); // Default sorting option
 
   useEffect(() => {
@@ -24,21 +22,6 @@ const Toys = () => {
 
     fetchData();
   }, []); // Empty dependency array ensures this effect runs once when the component mounts
-
-  const filterItems = (category) => {
-    const filtered =
-      category === "all"
-        ? jsonData
-        : jsonData.filter((item) => item.category === category);
-
-    setFilteredItems(filtered);
-    setSelectedCategory(category);
-  };
-
-  const showAll = () => {
-    setFilteredItems(jsonData);
-    setSelectedCategory("all");
-  };
 
   const handleSortChange = (option) => {
     setSortOption(option);
