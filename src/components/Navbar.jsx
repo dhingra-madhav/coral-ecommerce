@@ -7,13 +7,19 @@ import {
   FaUser,
 } from "react-icons/fa";
 import logo from "/logo.svg";
+import LoginCard from "./LoginCard";
 import { Link, NavLink } from "react-router-dom";
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [isLoginOpen, setIsLoginOpen] = useState(false);
 
   const toggleMenu = () => {
     setIsMenuOpen(!isMenuOpen);
+  };
+
+  const toggleLogin = () => {
+    setIsLoginOpen(!isLoginOpen);
   };
 
   const navItems = [
@@ -32,7 +38,7 @@ const Navbar = () => {
 
         {/* account and shopping btn */}
         <button
-          href="/"
+          onClick={toggleLogin}
           className="bg-Black hover:bg-orange-500 px-4 py-2 text-white font-semibold flex gap-2 items-center rounded-2xl"
         >
           <FaUser /> Login
@@ -84,6 +90,9 @@ const Navbar = () => {
           ))}
         </ul>
       </div>
+
+      {/* Render the LoginCard component */}
+      {isLoginOpen && <LoginCard onClose={toggleLogin} />}
     </header>
   );
 };
